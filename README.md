@@ -1,4 +1,9 @@
 # WWDC19 Xcode Color Theme
+Xcode color theme from WWDC2019 keynote.
 
-## Preview
+#### Installation Folder
+~/Library/Developer/Xcode/UserData/FontAndColorThemes/ 
+
+
+#### Preview
 ![theme preview](/preview.png)
