@@ -5,4 +5,4 @@ Xcode color theme from WWDC2019 keynote.
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ 
 
 ## Preview
-![theme preview](/preview.png)
+![theme preview](/theme-preview.png)
